@@ -1,0 +1,55 @@
+/***** text styling *****/
+@import url(http://fonts.googleapis.com/css?family=Josefin+Sans);
+
+Body {
+Background-color:#ECCEF5
+}
+
+h1 {
+	font-size: 36px;
+	color: #4B088A;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align:center;
+	font-style:normal
+	line-height:110
+	font-weight:900
+	text-shadow: 6px 1px 5px rgba(150, 150, 150, 1);
+}
+h2 {
+	font-size: 32px;
+	color: #4B088A;
+	font-family: 'Josefin Sans', sans-serif;
+	font-style:normal
+	line-height:110
+	font-weight:900
+	text-shadow: 6px 1px 5px rgba(150, 150, 150, 1);
+	
+}
+h3 {
+	font-size: 28px;
+	color: #4B088A;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align:center;
+	font-style:normal
+	line-height:110
+	font-weight:900
+	text-shadow: 6px 1px 5px rgba(150, 150, 150, 1);
+	
+p {
+  font-size: 14px;
+  font-family: 'Josefin Sans', sans-serif;
+}	
+
+
+a {
+font-size: 14px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+a:link {color:#CC3399;}    /* unvisited link */
+
+a:visited {color:CC6633;} /* visited link */
+
+a:hover {color:#CCFF66;}   /* mouse over link */
+
+a:active {color:#9900FF;}  /* selected link */
+
